@@ -1,0 +1,10 @@
+{
+	"MagneticFieldStrength":"7",
+	"Manufacturer":"Agilent Technologies",
+	"PulseSequenceType":"GRE",
+	"RepititionTime":"0.050",
+	"EchoTime":"0.010",
+	"FlipAngle":"60",
+	"ReceiveCoilName": "RF receive and transmit were achieved with a 65 mm inner diameter quadrature RF coil from (M2M Imaging, Cleveland, OH)"
+}
+
