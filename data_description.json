@@ -1,8 +1,0 @@
-{
-"Name": "MRI data from a human ex vivo brainstem specimen", 
-"Description": "Magnetic resonance imaging (MRI) was used to acquire a 50 um resolution anatomical image of a human brainstem",
-"BIDSVersion": "1.0", 
-"DatasetType": "raw", 
-"License": "CC-BY-4.0"
-}
-
