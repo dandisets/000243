@@ -2,3 +2,7 @@
 	path = sub-S01/anat/sub-S01_T2w.ngff
 	url = https://github.com/dandizarrs/7723d02f-1f71-4553-a7b0-47bda1ae8b42
 	datalad-id = 89482b9e-e48e-4f92-82a3-0d3afff49e7e
+[submodule "sub-S01/anat/sub-S01_T2w.ome.zarr"]
+	path = sub-S01/anat/sub-S01_T2w.ome.zarr
+	url = https://github.com/dandizarrs/7723d02f-1f71-4553-a7b0-47bda1ae8b42
+	datalad-id = 89482b9e-e48e-4f92-82a3-0d3afff49e7e
