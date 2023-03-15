@@ -384,7 +384,7 @@
 "identifier":
 "738fc829-6ba8-40cb-aba3-fc5c73f95988",
 "path":
-"sub-S01/anat/sub-S01_T2w.ngff",
+"sub-S01/anat/sub-S01_T2w.ome.zarr",
 "schemaKey":
 "Asset",
 "schemaVersion":
@@ -419,7 +419,7 @@
 ]
 },
 "modified":
-"2022-05-10T14:08:00.235643+00:00",
+"2023-03-15T16:09:31.810377+00:00",
 "path":
 "sub-S01/anat/sub-S01_T2w.ome.zarr",
 "size":
